@@ -1,0 +1,2 @@
+# Referenced at /Users/mayank/Desktop/IITH-RUHealthApp/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:28
+-keep class android.support.multidex.MultiDexApplication { <init>(...); }
